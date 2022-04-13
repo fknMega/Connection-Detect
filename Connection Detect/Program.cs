@@ -33,6 +33,7 @@ namespace Connection_Detect
 
             });
 
+            while (true) { }
 
         }
     }
